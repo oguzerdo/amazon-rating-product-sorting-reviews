@@ -49,7 +49,7 @@ scipy==1.7.3
 
 # **Files**
 
-*[amazon-rating-product-sorting-reviews.ipynb](https://github.com/oguzerdo/amazon-review-sorting)* - AB Test Project with proportion Z test.
+*[amazon-rating-product-sorting-reviews.ipynb](https://github.com/oguzerdo/amazon-review-sorting/blob/main/amazon-rating-product-sorting-reviews.ipynb)* - AB Test Project with proportion Z test.
 
 ---
 
