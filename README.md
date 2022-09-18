@@ -12,8 +12,6 @@ Another problem is the correct ranking of the comments given to the products. Si
 
 In solving these 2 basic problems, e-commerce sites and sellers will increase their sales while customers will complete their purchasing journey smoothly.
 
----
-
 # Dataset Info
 
 **Total Features:** 12
@@ -35,8 +33,6 @@ In solving these 2 basic problems, e-commerce sites and sellers will increase th
 | helpful_yes | Number of times the review was found helpful |
 | total_vote | Number of votes for review |
 
----
-
 # Requirements
 
 ```python
@@ -45,13 +41,10 @@ pandas==1.4.3
 scipy==1.7.3
 ```
 
----
-
 # **Files**
 
-*[amazon-rating-product-sorting-reviews.ipynb](https://github.com/oguzerdo/amazon-review-sorting/blob/main/amazon-rating-product-sorting-reviews.ipynb)* - Rating & Sorting project notebook
+[*amazon-rating-product-sorting-reviews.ipynb*](https://github.com/oguzerdo/amazon-review-sorting/blob/main/amazon-rating-product-sorting-reviews.ipynb) - Rating & Sorting project notebook
 
----
 
 # Author
 
