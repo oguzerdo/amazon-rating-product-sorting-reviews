@@ -43,19 +43,15 @@ scikit_learn==1.1.2
 scipy==1.7.3
 ```
 
-# **Files (EDIT)**
+# **Files**
 
-*[01_arl.ipynb](https://github.com/oguzerdo/recommender-systems/blob/main/01_arl.ipynb) -* Association Rule Learning Notebook
+*[01-user-time-weighted-product-score.ipynb](https://github.com/oguzerdo/amazon-rating-product-sorting-reviews/blob/main/01-rating-products/01-user-time-weighted-product-score.ipynb) -* User & Time Weighted Product Score Calculation Notebook
 
-*[02_content_based_recommender.ipynb](https://github.com/oguzerdo/recommender-systems/blob/main/02_content_based_recommender.ipynb) -* Content Based Filtering Movie Recommender
+*[02.1-sorting-udemy-courses.ipynb](https://github.com/oguzerdo/amazon-rating-product-sorting-reviews/tree/main/02-product-sorting/2.2-sorting-imdb-movies) -* Sorting Udemy Courses Notebook
 
-*[03_item_based_recommender.ipynb](https://github.com/oguzerdo/recommender-systems/blob/main/03_item_based_recommender.ipynb) -* Item Based Filtering Movie Recommender
+*[02.2-sorting-imdb-movies.ipynb](https://github.com/oguzerdo/amazon-rating-product-sorting-reviews/blob/main/02-product-sorting/2.2-sorting-imdb-movies/sorting-imdb-movies.ipynb) -* Sorting IMDB Movies Notebook
 
-*[04_user_based_recommender.ipynb](https://github.com/oguzerdo/recommender-systems/blob/main/04_user_based_recommender.ipynb) -* User Based Filtering Movie Recommender
-
-*[05_matrix_factorization.ipynb](https://github.com/oguzerdo/recommender-systems/blob/main/05_matrix_factorization.ipynb) -* Matrix Factorization Movie Recommender
-
-*[Project-I-Hybrid-Recommender-System.ipynb](https://github.com/oguzerdo/recommender-systems/blob/main/06_Hybrid-Recommender-System-Project.ipynb) -* Hybrid Movie Recommender PROJECT
+*[04-amazon-rating-product-sorting-reviews.ipynb](https://github.com/oguzerdo/amazon-rating-product-sorting-reviews/blob/main/04-amazon-rating-product-sorting-reviews/amazon-rating-product-sorting-reviews.ipynb) -* Rating Product & Sorting Reviews in Amazon
 
 # Author
 
