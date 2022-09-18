@@ -1,6 +1,6 @@
-# Sorting Udemy Courses
+# Sorting Reviews
 
-![SortingUdemy](/images/sorting-reviews.png.png)
+![SortingReviews](/images/sorting-reviews.png)
 
 # Business Problem
 
