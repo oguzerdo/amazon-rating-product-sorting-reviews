@@ -1,6 +1,6 @@
-# Sorting Udemy Courses
+# Sorting IMDB Movies
 
-![SortingUdemy](/images/udemy.png)
+![SortingUdemy](/images/imdb-project.png)
 
 # Business Problem
 
