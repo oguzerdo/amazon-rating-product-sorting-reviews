@@ -37,7 +37,7 @@ scipy==1.7.3
 
 # **Files**
 
-*[01-user-time-weighted-product-score.ipynb](hhttps://github.com/oguzerdo/rating-sorting-approaches/blob/main/01-rating-products/01-user-time-weighted-product-score.ipynb) -* User & Time Weighted Product Score Calculation Notebook
+*[01-user-time-weighted-product-score.ipynb](https://github.com/oguzerdo/rating-sorting-approaches/blob/main/01-rating-products/01-user-time-weighted-product-score.ipynb) -* User & Time Weighted Product Score Calculation Notebook
 
 *[02.1-sorting-udemy-courses.ipynb](https://github.com/oguzerdo/rating-sorting-approaches/blob/main/02-product-sorting/02.1-sorting-udemy-courses/2.1-sorting-udemy-courses.ipynb) -* Sorting Udemy Courses Notebook
 
