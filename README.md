@@ -1,6 +1,6 @@
 # Sorting Amazon Reviews
 
-![ProjectImage](/images/project1.png)
+![IMAGE](/images/project1.png)
 
 # Business Problem
 
