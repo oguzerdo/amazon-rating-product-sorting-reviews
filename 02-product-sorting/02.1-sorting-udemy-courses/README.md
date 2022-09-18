@@ -21,7 +21,7 @@ The Bayesian method applies the approach of using past information to make somet
 
 # Dataset Info
 
-### product_sorting.csv
+**product_sorting.csv**
 
 | Feature | Definition |
 | --- | --- |
