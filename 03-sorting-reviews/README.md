@@ -31,6 +31,8 @@ scipy==1.7.3
 
 *[02.2-sorting-imdb-movies.ipynb](https://github.com/oguzerdo/amazon-rating-product-sorting-reviews/blob/main/02-product-sorting/2.2-sorting-imdb-movies/sorting-imdb-movies.ipynb) -* Sorting IMDB Movies Notebook
 
+*[03-sorting-reviews.ipynb](https://github.com/oguzerdo/amazon-rating-product-sorting-reviews/blob/main/03-sorting-reviews/03-sorting-reviews.ipynb) -* Sorting Reviews Notebook
+
 *[04-amazon-rating-product-sorting-reviews.ipynb](https://github.com/oguzerdo/amazon-rating-product-sorting-reviews/blob/main/04-amazon-rating-product-sorting-reviews/amazon-rating-product-sorting-reviews.ipynb) -* Rating Product & Sorting Reviews in Amazon
 
 # Author
