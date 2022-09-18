@@ -17,8 +17,7 @@ In this study;
 furthermore, at the end of the study, a hybrid solution of all these approaches and a ranking approach is discussed.
 
 # Dataset Info
-
-
+**movies_metadata.csv**
 
 | Feature | Definition |
 | --- | --- |

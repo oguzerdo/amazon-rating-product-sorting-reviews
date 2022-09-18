@@ -13,6 +13,7 @@ Another problem is the correct ranking of the comments given to the products. Si
 In solving these 2 basic problems, e-commerce sites and sellers will increase their sales while customers will complete their purchasing journey smoothly.
 
 # Dataset Info
+**amazon_review.csv**
 
 **Total Features:** 12
 
