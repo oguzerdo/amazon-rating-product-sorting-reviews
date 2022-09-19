@@ -75,7 +75,7 @@ In solving these 2 basic problems, e-commerce sites and sellers will increase th
 
 # Requirements
 
-```python
+```
 matplotlib==3.5.2
 pandas==1.4.3
 scipy==1.7.3
