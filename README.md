@@ -60,7 +60,7 @@ Up-Down Diff Score = (up ratings) − (down ratings)
 Average Rating Score= (up ratings) / (all ratings)
 Wilson Lower Bound Score
 
-
+---
 ![IMAGE](/images/project1.png)
 ## [Rating Product & Sorting Amazon Reviews](04-amazon-rating-product-sorting-reviews/README.md)
 
