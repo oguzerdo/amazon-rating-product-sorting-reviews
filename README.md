@@ -6,11 +6,10 @@ Think about the many complex concepts that analysts often encounter in how to cr
 
 In this repository, you can explore various approaches to measuring these concepts and get an overview of different levels of measurement and ways to transform variables. 
 
-By the end of this course, you will be able to develop and critically evaluate metrics for concepts worth studying. After all, good analysis is built on good measurements.
-
-In this repository, various projects related to rating and sorting and appropriate approaches to them are presented.
-
 You can review the approaches and projects included in the repository below
+
+Various projects related to rating and sorting and appropriate approaches to them are presented.
+
 
 ## [User & Time Weighted Product Score](01-rating-products/01-user-time-weighted-product-score.ipynb)
 ![Product Rating](images/product-rating.png)
